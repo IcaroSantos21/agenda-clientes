@@ -1,16 +1,42 @@
-# React + Vite
+# Agenda de Contatos
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Aplicação web desenvolvida como parte de uma **atividade acadêmica da faculdade**, com o objetivo de praticar os fundamentos do React e o desenvolvimento de interfaces web interativas.
 
-Currently, two official plugins are available:
+O sistema permite cadastrar, visualizar, pesquisar e excluir contatos por meio de uma interface simples e intuitiva.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🎓 Contexto acadêmico
 
-## React Compiler
+Este projeto foi desenvolvido como atividade prática da graduação em **Análise e Desenvolvimento de Sistemas (ADS)**, com foco na aplicação dos conhecimentos de desenvolvimento front-end.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Durante o desenvolvimento, foram praticados conceitos como:
 
-## Expanding the Oxlint configuration
+- Componentização com React.
+- Gerenciamento de estado com `useState`.
+- Comunicação entre componentes por meio de props.
+- Manipulação de eventos e formulários.
+- Renderização e filtragem de listas.
+- Estilização com CSS.
+- Organização de arquivos e componentes em uma aplicação web.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🛠️ Tecnologias utilizadas
+
+- **React** — construção da interface.
+- **Vite** — ambiente de desenvolvimento e build.
+- **JavaScript** — lógica da aplicação.
+- **HTML5 e CSS3** — estrutura e estilização.
+- **JSON** — dados iniciais dos contatos.
+
+---
+
+## 👨‍💻 Autor
+
+**Icaro Rodrigues Santos**
+
+Estudante de Análise e Desenvolvimento de Sistemas (ADS).
+
+- GitHub: [@IcaroSantos21](https://github.com/IcaroSantos21)
+- LinkedIn: [icarorod21](https://www.linkedin.com/in/icarorod21/)
+
+---
+
+*Projeto acadêmico desenvolvido para fins educacionais e de prática de desenvolvimento web.*
