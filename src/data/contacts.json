@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Maria Silva",
+		"phone": "(11) 98888-1010",
+		"email": "maria@email.com"
+	},
+	{
+		"name": "João Souza",
+		"phone": "(11) 97777-2020",
+		"email": "joao@email.com"
+	},
+	{
+		"name": "Ana Lima",
+		"phone": "(11) 96666-3030",
+		"email": "ana@email.com"
+	}
+]
